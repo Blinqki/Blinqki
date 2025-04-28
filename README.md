@@ -9,9 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e3/6a/82/e36a820879c9bc8dc450dc15e90a0e34.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -28,6 +25,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/e3/6a/82/e36a820879c9bc8dc450dc15e90a0e34.gif"  />
 
 ###
 

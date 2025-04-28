@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="156" src="https://i.pinimg.com/originals/e3/6a/82/e36a820879c9bc8dc450dc15e90a0e34.gif"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/e3/6a/82/e36a820879c9bc8dc450dc15e90a0e34.gif"  />
 
 ###
 
@@ -38,6 +38,16 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <a href="https://open.spotify.com/user/3rrzccnbsh3ut4v6jalkv7eje">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3rrzccnbsh3ut4v6jalkv7eje&count=4" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
